@@ -1,5 +1,5 @@
 # Student Debt & Career Outcomes Research (Tableau)
-**By:** Aisha Nomani, Sai Han Shan Pha, Ngoc Phuong Tam Mai, Ahmed Alazzawi, Mohammed Aljumai  
+**By:** Aisha Nomani, Sai Han Shan Pha, Ngoc Phuong Tam Mai, Ahmed Alazzawi, and Mohammed Aljumai  
 
 ---
 
