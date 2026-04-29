@@ -33,7 +33,7 @@ This project analyzes the relationship between student loan debt and career outc
 
 ---
 
-## 🔍 Methodology  
+## Methodology  
 - Collected and cleaned datasets from multiple sources  
 - Removed missing and inconsistent values  
 - Joined datasets using common fields (CIP codes, institution names, degree levels)  
