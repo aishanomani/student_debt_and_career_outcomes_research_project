@@ -58,4 +58,4 @@ This project analyzes the relationship between student loan debt and career outc
 ---
 
 ## Project Impact  
-This project provides data-driven insights into how education choices—such as major, institution type, and borrowing—affect long-term financial outcomes, helping students and decision-makers make more informed choices.
+This project provides data-driven insights into how education choices, such as major, institution type, and borrowing—affect long-term financial outcomes, helping students and decision-makers make more informed choices.
